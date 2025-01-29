@@ -10,7 +10,7 @@ Learn more about the following technologies:
 Use `git clone` to clone this repo:
 
 ```console
-$ git clone https://github.com/cacaogoldxyz/cacao-god-fe.git
+$ git clone https://github.com/miracl3-dreams/tm-fe.git
 ```
 
 or
