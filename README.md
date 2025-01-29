@@ -10,7 +10,7 @@ Learn more about the following technologies:
 Use `git clone` to clone this repo:
 
 ```console
-$ git clone https://github.com/cacaogoldxyz/cacao-god-fe.git
+$ git clone https://github.com/miracl3-dreams/tm-fe.git
 ```
 
 or
@@ -19,11 +19,10 @@ Click `Clone or download` and `Download Zip` to get this repo.
 
 ## Install packages
 1. Open a terminal
-2. Go to `cacao-god-fe` folder then
+2. Go to `tm-fe` folder then
 
 ```
 $ npm install
 ```
 
 
-# tm-fe
