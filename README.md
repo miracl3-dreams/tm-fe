@@ -19,7 +19,7 @@ Click `Clone or download` and `Download Zip` to get this repo.
 
 ## Install packages
 1. Open a terminal
-2. Go to `cacao-god-fe` folder then
+2. Go to `tm-fe` folder then
 
 ```
 $ npm install
